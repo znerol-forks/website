@@ -255,6 +255,7 @@ Diese Clients sind kompatibel mit unseren [Staging Endpunkt für ACME v2](https:
 - [ruxy](https://ruxyserver.com)
 - [ISPConfig](https://www.ispconfig.org/)
 - [LiveConfig Hosting Control Panel](https://www.liveconfig.com/)
+- [Certhub](https://certhub.io/)
 
 # Ihren Client/Ihr Projekt hinzufügen
 
